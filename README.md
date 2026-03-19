@@ -1,5 +1,5 @@
 # Project_Test
-# NLP Multi-Task AI System
+# NLP, Bag of Words, etc..
 
 ## Project Overview
 This project is an end-to-end NLP system that performs multiple tasks including:
