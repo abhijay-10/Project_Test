@@ -2,7 +2,7 @@
 # NLP, Bag of Words, etc..
 
 ## Project Overview
-This project is an end-to-end NLP system that performs multiple tasks including:
+This project performs multiple tasks including:
 - Chat Response Generation (using local LLM and Chat Models like mistral:latest)
 - Text Summarization
 - Sentiment Analysis
