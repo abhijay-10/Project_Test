@@ -15,4 +15,4 @@ The system integrates modern AI technologies like Transformers, FastAPI, and Oll
 
 ### 1. Clone the repository
 git clone https://github.com/abhijay-10/Project_Test/tree/main
-cd your-repo-name
+
