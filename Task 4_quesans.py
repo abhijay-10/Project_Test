@@ -1,6 +1,7 @@
 from transformers import pipeline
 
 qa_pipeline = pipeline("question-answering")
+# yeh default modelhai hugging face mei se---> distilbert-base-cased-distilled-squad
 
 context = """
 Artificial Intelligence is the simulation of human intelligence in machines.
